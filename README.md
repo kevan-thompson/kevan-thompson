@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevan-thompson
 - 👀 I’m interested in FPGAs
-- 🌱 I’m currently learning Verilog
+- 🌱 I’m currently learning Verilog and advanced VHDL simulation techniques
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me ...
 
